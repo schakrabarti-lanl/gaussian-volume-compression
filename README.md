@@ -72,10 +72,27 @@ pip install bvh-diff-gaussian-rasterization
 pip install submodules\simple-knn
 ```
 
+## Example Workflow For Source Code Modification
+```
+# create a new branch
+git checkout -b feature/my-change
+# edit files
+git add .
+git commit -m "Describe the change"
+git push origin feature/my-change
+```
+
+### Create Pull Request
+```
+feature/my-change → main
+```
+Then request review and merge when approved.
+
 ## License
 
 This project is licensed under the MIT License. See the
 [LICENSE](LICENSE) file for details.
 
+## Copyright Notice
 Additional Los Alamos National Laboratory copyright and Government
 rights notices are provided in the [NOTICE](NOTICE) file.
