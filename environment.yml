@@ -1,0 +1,21 @@
+name: gaussian_splatting
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - plyfile
+  - pip
+  - pytorch-cuda
+  - torchvision
+  - tqdm
+  - pip:
+    - opencv-python
+    - pyvista
+    - joblib
+    - piq
+    - matplotlib
+    - scipy
+    - bvh-diff-gaussian-rasterization
+    - submodules/simple-knn
