@@ -1,0 +1,1 @@
+Namespace(source_path='/vast/home/ldyken/bvh/gaussian-volume/impactnorm.vtu', model_path='./output/d9e74918-8', depths='', resolution=-1, train_test_exp=False, data_device='cuda', eval=False, cap_max=382000)

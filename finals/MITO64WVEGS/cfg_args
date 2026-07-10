@@ -1,0 +1,1 @@
+Namespace(source_path='/vast/home/ldyken/gaussian-volume/vtu/mito.vtu', model_path='./output/3eb831cc-1', depths='', resolution=-1, train_test_exp=False, data_device='cuda', eval=False, cap_max=83129)

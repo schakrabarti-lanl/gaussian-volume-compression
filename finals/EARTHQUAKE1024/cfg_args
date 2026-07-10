@@ -1,0 +1,1 @@
+Namespace(source_path='/vast/home/ldyken/bvh/gaussian-volume/earthquakenorm.vtu', model_path='./output/1a4e588d-1', depths='', resolution=-1, train_test_exp=False, data_device='cuda', eval=False, cap_max=91000)
