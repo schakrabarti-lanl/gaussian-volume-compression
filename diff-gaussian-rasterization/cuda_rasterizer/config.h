@@ -1,0 +1,8 @@
+#ifndef CUDA_RASTERIZER_CONFIG_H_INCLUDED
+#define CUDA_RASTERIZER_CONFIG_H_INCLUDED
+
+#define NUM_CHANNELS 3 // Default 3, RGB
+#define OPACITY 0.01
+#define WEIGHT_CUTOFF 1e-2
+
+#endif

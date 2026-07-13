@@ -1,0 +1,9 @@
+[submodule "submodules/simple-knn"]
+	path = submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
+[submodule "diff-gaussian-rasterization/third_party/glm"]
+	path = diff-gaussian-rasterization/third_party/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "diff-gaussian-rasterization/third_party/cuBQL"]
+	path = diff-gaussian-rasterization/third_party/cuBQL
+	url = https://github.com/ingowald/cuBQL.git

@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
+
+.vscode
+output
+build
+tensorboard_3d
+screenshots
+data
+vtu
+vtk
+point_clouds
+3dgs
+raw
+*.npy
+*.png
+diff_gaussian_rasterization/build/
+diff_gaussian_rasterization/diff_gaussian_rasterization.egg-info/
+diff_gaussian_rasterization/dist/
+diff_gaussian_rasterization/.vscode/
+diff_gaussian_rasterization/third_party/cuBQL/
+test*.vtk
+_skbuild/
+out_vtk/
